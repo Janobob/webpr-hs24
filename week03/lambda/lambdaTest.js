@@ -106,7 +106,10 @@ safeDiv(1)(1)
 // test( doPay(invo) === "Roger 4711");
 // test( doPay(pal ) === "pal: Dierk");
 
-// test result report
+
+
+
+// test response report
 const allTestsOk = () => {
   for (let i = 0; i < ok.length; i++) {
     // not nice, yet. Needs improvement
